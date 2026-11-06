@@ -6,7 +6,7 @@ import type { BirthdayConfig } from '../types/birthday'
  */
 export const birthday: BirthdayConfig = {
   name: 'Nikuze Ange',
-  sender: 'Alex',
+  sender: 'Serge',
   hero: {
     // Change this to the actual birthday. It is the only date shown on the page.
     dateLabel: '6 November',
