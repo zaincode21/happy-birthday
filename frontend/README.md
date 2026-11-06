@@ -1,6 +1,6 @@
 # A birthday page
 
-A single-page birthday greeting for **Nikuze Ange**, built with React, TypeScript, Vite and Tailwind CSS v4. Midnight sky, a cake you can actually blow out, a wall of remembered moments, and a letter hidden in a gift box.
+A single-page birthday greeting for **Nikuze Ange**, made by **Serge**, built with React, TypeScript, Vite and Tailwind CSS v4. Midnight sky, a cake you can actually blow out, a wall of remembered moments, and a letter hidden in a gift box.
 
 ## Run it
 
